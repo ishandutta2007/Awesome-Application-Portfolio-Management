@@ -4,10 +4,12 @@
 
 # 🏛️ Awesome Application Portfolio Management (APM) & Enterprise Architecture
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Application-Portfolio-Management/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated directory of leading SaaS tools, open-source software catalogs, enterprise architecture frameworks, benchmark pricing, and market intelligence for modern Application Portfolio Management (APM).**
 
@@ -22,7 +24,9 @@
 - [☁️ Commercial & Enterprise SaaS Solutions](#️-commercial--enterprise-saas-solutions)
 - [🔓 Open-Source Frameworks & Tooling](#-open-source-frameworks--tooling)
 - [🧭 APM Evaluation & TIME Rationalization Framework](#-apm-evaluation--time-rationalization-framework)
+- [💖 Support & Community](#-support--community)
 - [🤝 Contributing](#-contributing)
+- [📊 Star History](#-star-history)
 - [📜 License](#-license)
 
 ---
@@ -84,6 +88,17 @@ Enterprise architects frequently leverage Gartner's **T.I.M.E. framework** to sy
 
 ---
 
+## 💖 Support & Community
+
+Thank you so much for exploring this Application Portfolio Management repository! If you find this curated collection helpful for your team, enterprise architecture research, or IT rationalization initiatives, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork the project** and adapt the application matrices and frameworks for your organization.
+- 📢 **Share with peers**, architects, and engineering leaders on LinkedIn, Twitter/X, and tech communities.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved you hours of research or benchmark pricing negotiation prep, you can support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## 🤝 Contributing
 
 Contributions are always welcome! 
@@ -95,6 +110,11 @@ Contributions are always welcome!
 5. 📬 Open a Pull Request.
 
 Please ensure added SaaS platforms include explicit benchmark pricing and free tier/trial data, and open-source tools link directly to active repositories.
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Application-Portfolio-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Application-Portfolio-Management&type=date&legend=top-left)
 
 ---
 

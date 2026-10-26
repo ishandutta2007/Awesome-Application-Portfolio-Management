@@ -61,9 +61,9 @@ The table below lists prominent commercial APM and Enterprise Architecture platf
 
 ## 🔓 Open-Source Frameworks & Tooling
 
-Self-hosted and developer-friendly alternatives to inventory software services, visualize system topologies, track architecture artifacts, and govern IT assets. Repositories are sorted in descending order by **GitHub Star Count**.
+Self-hosted and developer-friendly alternatives to inventory software services, visualize system topologies, track architecture artifacts, and govern IT assets. Repositories are sorted in descending order by **GitHub Stars_Count**.
 
-| 📦 Repository & Project | 🌟 Stars | 📋 Description | 💻 Tech Stack |
+| 📦 Repository & Project | 🌟 GitHub_Stars | 📋 Description | 💻 Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Backstage](https://github.com/backstage/backstage)** | [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Open framework developed at Spotify for building developer portals, software catalogs, and application ownership matrices. | TypeScript, React, Node.js |
 | **[Snipe-IT](https://github.com/grokability/snipe-it)** | [![Stars](https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white)](https://github.com/grokability/snipe-it/stargazers) | Full-featured IT asset management (ITAM) platform for auditing software licenses, digital assets, hardware allocations, and lifecycle status. | PHP, Laravel, MySQL |

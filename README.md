@@ -61,7 +61,7 @@ The table below lists prominent commercial APM and Enterprise Architecture platf
 
 ## 🔓 Open-Source Frameworks & Tooling
 
-Self-hosted and developer-friendly alternatives to inventory software services, visualize system topologies, track architecture artifacts, and govern IT assets. Repositories are sorted in descending order by **GitHub Stars_Count**.
+Self-hosted and developer-friendly alternatives to inventory software services, visualize system topologies, track architecture artifacts, and govern IT assets. Repositories are sorted in descending order by **GitHub_Stars_Count**.
 
 | 📦 Repository & Project | 🌟 GitHub_Stars | 📋 Description | 💻 Tech Stack |
 | :--- | :--- | :--- | :--- |
